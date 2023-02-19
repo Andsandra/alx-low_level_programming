@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ *
+ * Description: Prints all possible combinations of three single-digit numbers
+ * separated by ", " and printed in ascending order
+ *
+ * Return: Always 0 (Success)
+ */
+
 int main(void)
 {
     char c;
@@ -10,7 +19,3 @@ int main(void)
 
     return 0;
 }
-
-
-
-
